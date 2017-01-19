@@ -1,0 +1,26 @@
+title: Seunghyun Lee
+name: Seunghyun Lee
+email: shlee0605@gmail.com
+facebook: shlee0605
+github: shlee0605
+
+baseurl: ""
+url: "http://seunghyunlee.com"
+
+markdown: kramdown
+
+asset_url: /assets
+
+google_analytics:
+  ua: 'UA-90553295-1'
+
+gems:
+  - jekyll-paginate
+paginate: 5
+paginate_path: '/page/:num/'
+
+author:
+  name: Seunghyun Lee
+  contact:
+    linkedin:  https://www.linkedin.com/in/shlee0605
+    github:    https://github.com/shlee0605

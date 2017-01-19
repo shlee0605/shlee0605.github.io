@@ -22,5 +22,5 @@ paginate_path: '/page/:num/'
 author:
   name: Seunghyun Lee
   contact:
-    linkedin:  https://www.linkedin.com/in/shlee0605
+    linkedin-square:  https://www.linkedin.com/in/shlee0605
     github:    https://github.com/shlee0605

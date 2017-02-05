@@ -12,7 +12,8 @@
         {% assign current_index = 0 %}
         <div class="sidebar-personal-info-section">
         <p>
-        {% for contact in site.author.contact %}
+
+<!--         {% for contact in site.author.contact %}
         {% assign iconname = contact[0] %}
         {% if contact[0] == 'email' %}
         {% assign iconname = 'envelope' %}
@@ -24,6 +25,16 @@
         {% if current_index != len %}
         {% endif %}
         {% endfor %}
+ -->        
+
+        <a href="https://www.linkedin.com/in/shlee0605">
+          <i class="fa fa-linkedin-square fa-2x" aria-hidden="true" style="margin-right: 5px;"></i>
+        </a> 
+                
+        <a href="https://github.com/shlee0605">
+          <i class="fa fa-github fa-2x" aria-hidden="true"></i>
+        </a> 
+
         </p>
         </div>
         {% endif %}
